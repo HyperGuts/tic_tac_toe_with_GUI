@@ -1,0 +1,15 @@
+
+#[ennek a filenak a neve].desktop
+
+[Desktop Entry]
+Type=Application
+Encoding= UTF-8
+Name= TicTacToe
+Exec= python/elérési/útja program/elérési/útja
+Icon= /ikon/elérési/út
+Terminal=false
+
+
+
+
+#(sudo) chmod +x program/elérési/útja
